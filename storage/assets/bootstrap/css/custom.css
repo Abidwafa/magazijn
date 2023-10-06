@@ -1,0 +1,23 @@
+.text-white {
+    color: #FFF !important;
+}
+
+.box .fa-minus,.fa-plus {
+    color: #FFF !important;
+}
+
+.fa-plus-large {
+    color: rgb(37, 22, 239) !important;
+}
+
+.row div label, table {
+    margin-top:15px;
+}
+
+#btn-plus {
+    margin-top: 38px !important; 
+}
+
+tr td.active.day {
+    background: rgba(204, 174, 12, 0.8) !important;
+}
